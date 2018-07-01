@@ -1,0 +1,102 @@
+.btn-outline-success:hover {
+    color: black;
+    background-color: white;
+    border-color: #fff0;
+}
+
+.btn-outline-success {
+    color: black;
+    background-color: transparent;
+    border-color: #fff0;
+}
+
+.form-control {
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #060505;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #fff0;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.row{
+/*	margin-left: 1000px;*/
+	margin-bottom: 100px;
+}
+
+.row .col-xs-4 p{
+	float: right;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+
+p.card-text{
+	color:black;
+}
+
+p.card-text:hover{
+	color:#5c5c5c;
+}
+
+.bg-secondary {
+    background-color: #5c5c5c80  !important;
+}
+
+.bg-secondary:hover {
+    background-color: #5c5c5c !important;
+    color: black !important;
+}
+.carousel-inner{
+    margin-top: -50px !important;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(0, 0, 0, 0.8);
+    padding-bottom: 8px;
+    padding-top: :50px;
+}
+
+.page-link{
+	color:black;
+}
+
+.page-link:hover {
+
+    z-index: 2;
+    color: white;
+    text-decoration: none;
+    background-color: #5c5c5c;
+    border-color: none;
+}
+
+.page-item.active .page-link{
+	background-color: #5c5c5c;
+	border-color: #dee2e6;
+}
+
+footer {
+	border-top: solid 5px black;
+	margin-top: 100px;
+	margin-bottom: -200px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    background-color:#5c5c5c
+}
+
+body{
+	background-image: url(zzzz.jpg);
+}
+
+.section img{
+	padding-top: 10px;
+	width: 50px;
+	height: auto;
+}
+
+
+

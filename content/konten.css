@@ -1,0 +1,40 @@
+.konten{
+	padding-top: 60px;
+}
+
+p.card-text{
+	color:black;
+}
+
+.bg-secondary{
+	background-color: #f96c13 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+	color: rgba(7, 29, 105, 0.5);
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, 0.8);
+}
+
+
+body{
+    background-image: url(wood.jpg);
+}
+
+footer {
+    border-top: solid 5px black;
+    width: 100%;
+    background-color:#5c5c5c;
+    padding-bottom: 1px;
+}
+
+.footer a{
+    color: white;
+}
+
+.footer a:hover{
+    color: #afafaf;
+    text-decoration: none;
+}
